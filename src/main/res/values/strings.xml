@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">VM-Delay</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="delays">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string name="default_delay_pos">3</string>
+    <string name="lock_switch_checked">false</string>
+    <string name="USSD_ACCESS_CMD">**61*</string>
+    <string name="USSD_SET_CMD">*11*</string>
+    <string name="USSD_SEND_CMD">#</string>
+    <string name="USSD_SETTINGS_REQUEST_CMD">*#61#</string>
+    <string name="voice_number">+1xxxxxxxxx</string>
+</resources>
